@@ -30,12 +30,12 @@ profiles:
   - icon: at-symbol
     url: "mailto:joyalmartin02@example.com"
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/joyal_codes
+  # - icon: brands/x
+  # url: https://x.com/joyal_codes
   - icon: brands/github
     url: https://github.com/Aajeevan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/aajeevan-p-60015b29a/
   - icon: brands/instagram
     url: https://www.instagram.com/_aj_4__/
 
@@ -45,7 +45,7 @@ education:
     date_start: 2021-11-14
     date_end: 2025-07-30
     summary: |
-      Pursued B.Tech in artificial intelligence and data science
+      Pursued B.Tech in Artificial Intelligence and Data Science
     button:
       text: "Read Thesis"
       url: "https://example.com"
@@ -72,8 +72,8 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: FOSS for Good Intern
-    company_name: Aikyam Fondation
+  - position: Python Developer Intern
+    company_name: HEXCENT Pvt Ltd.
     company_url: ""
     company_logo: ""
     date_start: 2021-01-01
