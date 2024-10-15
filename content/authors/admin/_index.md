@@ -56,7 +56,7 @@ education:
 - area: UG Artificial Intelligence and Data Science
   institution: KTU University
   date*start: 2021-11-01
-  date_end: 2025-06-31
+  date_end: 2025-06-30
   summary: |
   Thesis on \_Why LLMs are awesome*. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   button:
